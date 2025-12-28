@@ -131,7 +131,7 @@ header {
 
 .footer p {
     font-family: sans-serif;
-    color: rgba(255, 255, 255, 0.5); /* Blanco semi-transparente para que sea discreto */
+    color: rgba(255, 255, 255, 0.5); 
     font-size: 14px;
     letter-spacing: 2px;
     text-transform: uppercase;
