@@ -10,7 +10,7 @@ body {
     min-height: 100vh;
     overflow-x: hidden;
 
-    /* 🔧 ARREGLO FOOTER */
+    
     display: flex;
     flex-direction: column;
 }
@@ -130,8 +130,8 @@ header {
     width: 100%;
     text-align: center;
     padding: 20px 0;
-
-    /* 🔧 ARREGLO FOOTER */
+    bottom: 0;
+    position: fixed;
     margin-top: auto;
 }
 
@@ -142,3 +142,4 @@ header {
     letter-spacing: 2px;
     text-transform: uppercase;
 }
+
