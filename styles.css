@@ -125,21 +125,3 @@ header {
 .carta:hover .carta-p {
     font-size: 18px;
 }
-
-.footer {
-    width: 100%;
-    text-align: center;
-    padding: 20px 0;
-    bottom: 0;
-    position: fixed;
-    margin-top: auto;
-}
-
-.footer p {
-    font-family: sans-serif;
-    color: rgba(255, 255, 255, 0.5); 
-    font-size: 14px;
-    letter-spacing: 2px;
-    text-transform: uppercase;
-}
-
